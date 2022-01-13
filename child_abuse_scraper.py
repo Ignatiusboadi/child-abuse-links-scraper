@@ -1,8 +1,6 @@
 from bs4 import BeautifulSoup as bsoup
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-import numpy as np
-import pandas as pd
 import re
 import requests
 import smtplib
